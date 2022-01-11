@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Catalog(Book)*>
+<!ELEMENT Book(Title, Author, Publication ,Edition, ISBN, Price)>
+<!ELEMENT Title(#PCDATA)>
+<!ELEMENT Author(#PCDATA)>
+<!ELEMENT Publication(#PCDATA)>
+<!ELEMENT Edition(#PCDATA)>
+<!ELEMENT ISBN(#PCDATA)>
+<!ELEMENT Price(#PCDATA)>

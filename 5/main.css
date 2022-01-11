@@ -1,0 +1,77 @@
+html{
+
+height: 100%;
+}
+body{
+background-color: #2f3035;
+background-image: url(images/light.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center;
+}
+.container{
+margin-left: auto;
+margin-right: auto;
+width: 1024px;
+}
+header{
+text-align: center;
+height: 100px;
+}
+
+nav{
+background-color: rgba(20, 19, 19, 0.164);
+text-align: center;
+height: 14px;
+padding-top: 14px;
+padding-bottom: 14px;
+}
+
+main{
+height: 400px;
+padding-top:80px ;
+
+padding-left:240px;
+padding-right: 240px;
+text-align: center;
+}
+footer{
+background-color:rgba(59, 20, 20, 0.014);
+height: 50px;
+text-align: center;
+font-size: 12px;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 10px;
+
+}
+
+h1{
+font-size: 100px;
+color: rgba(10, 10, 10, 0.904);
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+p{
+font-size: 18px;
+color:white;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+marquee{
+font-size: 100px;
+color: darkgreen;
+}
+
+a{
+color:white;
+font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+text-decoration: none;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.container-fluid{
+margin-top: 30px;
+}
