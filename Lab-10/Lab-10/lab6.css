@@ -1,0 +1,27 @@
+Catalog
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-break: auto;
+}
+
+Book
+{
+    font-family:arial;
+    color:blue;
+    font-size:16px;
+    line-break: auto;  
+}
+
+Title
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    margin-left: 20px;
+    
+}
+Author
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: cyan;
+}
